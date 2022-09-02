@@ -1,0 +1,4 @@
+.nav-item button, .nav-item button:focus {
+    background: transparent;
+    border: none;
+}
